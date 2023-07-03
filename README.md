@@ -2,10 +2,11 @@
 
 > Now You Can replace this Html code to = ``\ox_target\web\Index.Html``
    Or 
-> Rename the files name to index and paste in =  ``\ox_target\web``
+> Rename the files name to index.Html and paste in =  ``\ox_target\web``
 
-![ox_target](https://user-images.githubusercontent.com/69119616/230710334-787b90d6-49a4-4667-9b32-677721c0bdf5.gif)
-
+[details="Single Colored"]
+[img]https://i.imgur.com/Mdbmtpp.gif[/img]
+[/details]
 ```Html
 <html>
   <head>
