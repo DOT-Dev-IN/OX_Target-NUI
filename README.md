@@ -4,9 +4,9 @@
    Or 
 > Rename the files name to index.Html and paste in =  ``\ox_target\web``
 
-[details="Single Colored"]
-[img]https://i.imgur.com/Mdbmtpp.gif[/img]
-[/details]
+
+https://i.imgur.com/Mdbmtpp.gif
+https://i.imgur.com/N5fc4tw.gif
 ```Html
 <html>
   <head>
